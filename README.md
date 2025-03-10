@@ -26,7 +26,8 @@ I was tasked with performing an end-to-end analysis on a real estate dataset usi
 
 - `REAL ESTATE DATA SET.pbix` – Power BI file  
 - `Real_Estate_Dataset.xlsx` – Raw data source  
-- `Dashboard_Screenshot.png` – Image of final dashboard  
+- `Capture.png` – Image of final dashboard
+-  CaptureGG.png` – Image of final dashboard  
 - `README.md` – This file  
 
 ---
