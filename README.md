@@ -30,10 +30,10 @@ The objective was to extract actionable insights into property listings, market 
 ## 📷 Dashboard Snapshots
 
 ### Dashboard Page 1  
-![Dashboard Overview](.Capture.png)
+![Dashboard Overview](Capture.png)
 
 ### Dashboard Page 2  
-![Advanced Visuals](.CaptureGG.png)
+![Advanced Visuals](CaptureGG.png)
 
 ---
 
